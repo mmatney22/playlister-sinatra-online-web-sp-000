@@ -1,3 +1,4 @@
+
 source 'http://rubygems.org'
 
 gem 'sinatra'
@@ -10,6 +11,7 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'tux'
+gem 'rack-flash3'
 
 group :test do
   gem 'launchy'
